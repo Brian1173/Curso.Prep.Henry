@@ -1,0 +1,18 @@
+h1{
+    color: lime
+}
+
+img{
+    width: 400px;
+}
+#thirdDiv{
+    background-color: lemonchiffon;
+        height: 600px;
+        width: 500px;
+        padding: 50px;
+        border: 5px solid black;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
